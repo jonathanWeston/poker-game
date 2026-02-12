@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Documents\pokerGame\bin\Debug\net10.0\PokerGame.exe
+C:\Users\jonat\OneDrive\Documents\pokerGame\bin\Debug\net10.0\PokerGame.deps.json
+C:\Users\jonat\OneDrive\Documents\pokerGame\bin\Debug\net10.0\PokerGame.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documents\pokerGame\bin\Debug\net10.0\PokerGame.dll
+C:\Users\jonat\OneDrive\Documents\pokerGame\bin\Debug\net10.0\PokerGame.pdb
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.dll
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\refint\PokerGame.dll
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.pdb
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\PokerGame.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documents\pokerGame\obj\Debug\net10.0\ref\PokerGame.dll
